@@ -1,6 +1,6 @@
 [
     {
-        "entity1" : "greeting:greeting",
+        "entity1" : "-",
         "entity2": "-",
         "intents1" : "greeting",
         "intents2" : "-",
