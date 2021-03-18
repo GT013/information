@@ -257,7 +257,7 @@
     },
     {
         "entity1" :"q_scho_change:q_scho_change" ,
-        "entity2": "q_scho_change",
+        "entity2": "q_scho_change:q_scho_change",
         "intents1" :"type_scholarship" ,
         "intents2" : "q_scho_change",
         "response1" :"- เป็นนักศึกษาที่กำลังศึกษาระดับปริญญาตรีที่มีเกรดเฉลี่ยสะสมไม่น้อยกว่า 3.00 หรือกำลังศึกษาระดับบัณฑิตศึกษาที่ลงทะเบียนเรียนตามแผนการศึกษาที่หลักสูตรกำหนด\n- ไม่เป็นผู้ทำผิดกฎหมายหรือเคยทำผิดวินัยนักศึกษา\n- สามารถสมัครได้ตลอดปีการศึกษาตรวจสอบข้อมูลเพิ่มเติมได้ที่ https://office.kmitl.ac.th/osda/kmitl-scholarships/conferrece/#1572578161483-6f9189ef-2402" ,
