@@ -96,9 +96,9 @@
         "response2" : " "
     },
     {
-        "entity1" : "yes:yes",
+        "entity1" : "zero:zero",
         "entity2":"-" ,
-        "intents1" : "ch",
+        "intents1" : "number",
         "intents2" : "-",
         "response1" : "แชทบอทสวัสดีค่ะ สอบถามเรื่องอะไรดีคะ\n1.ทุนต่าง ๆ ของสถาบัน\n2.ทุนกยศ.\n3.ติดต่อแอดมิน\nกรุณาเลือกหมายเลขที่ต้องการจะสอบถาม",
         "response2" : " "
